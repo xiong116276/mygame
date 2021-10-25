@@ -1,0 +1,15 @@
+.mycontainer {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-wrap: wrap; }
+  .mycontainer .item_content {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    min-height: 160px;
+    min-width: 300px;
+    padding: 10px;
+    margin-bottom: 10px; }
+
+/*# sourceMappingURL=main.css.map */
